@@ -1,2 +1,2 @@
 # skeleton
-Basic html markup
+Basic HTML markup template.
